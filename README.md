@@ -1,6 +1,6 @@
 # espn-fantasy
 
-An AI co-manager for ESPN Fantasy Football — built by [papiprompts](https://github.com/jdm0830).
+An AI co-manager for ESPN Fantasy Football — built by [jdm0830](https://github.com/jdm0830).
 
 ## Why this exists
 
@@ -74,7 +74,7 @@ If you're adopting this for your own league:
 
 ## Credits
 
-Built by **papiprompts**.
+Built by **jdm0830**.
 
 ## License
 
